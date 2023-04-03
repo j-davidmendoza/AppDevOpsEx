@@ -5,7 +5,7 @@ https://dev.azure.com/UAGCIT/AppDevOps/_apis/build/status/AppDevOpsBuild?branchN
 - Staging Branch:
 https://dev.azure.com/UAGCIT/AppDevOps/_apis/build/status/AppDevOpsBuild?branchName=staging
 
--Production Branch
+- Production Branch
 https://dev.azure.com/UAGCIT/AppDevOps/_apis/build/status/AppDevOpsBuild?branchName=release
 
 #Test branches auto trigger 2
