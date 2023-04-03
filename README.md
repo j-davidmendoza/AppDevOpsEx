@@ -8,8 +8,6 @@ https://dev.azure.com/UAGCIT/AppDevOps/_apis/build/status/AppDevOpsBuild?branchN
 - Production Branch
 https://dev.azure.com/UAGCIT/AppDevOps/_apis/build/status/AppDevOpsBuild?branchName=release
 
-#Test branches auto trigger 2
-
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
